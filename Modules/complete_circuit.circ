@@ -39,7 +39,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
   </lib>
   <lib desc="file#counter+7seg.circ" name="7"/>
   <lib desc="file#Memory.circ" name="8"/>
-  <lib desc="file#../7-segment-display-driver.circ" name="9"/>
+  <lib desc="file#7-segment-display-driver.circ" name="9"/>
   <lib desc="file#binaryToBCD_6bit.circ" name="10"/>
   <lib desc="file#bintoBCD/MY_binaryToBCD_6bit.circ" name="11"/>
   <main name="main"/>
